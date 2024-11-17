@@ -16,3 +16,11 @@ Scan the machine with nmap. What is the other port running a web server on?
     8080
 
 ![nmap scan](/nmap.png)
+
+Take a look at the other web server. What file server is running?
+
+    Rejetto HTTP File Server
+
+What is the CVE number to exploit this file server?
+
+    2014-6287
