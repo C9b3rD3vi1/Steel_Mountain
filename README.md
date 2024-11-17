@@ -318,4 +318,3 @@ What is the root flag?
     9af5f314f57607c00fd09803a587db80
 
     9af5f314f57607c00fd09803a587db80
-
