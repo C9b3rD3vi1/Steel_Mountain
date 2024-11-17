@@ -11,6 +11,8 @@ Who is the employee of the month?
 
 ![Inspect](/BillHarper.png)
 
+## Initial Access
+
 Scan the machine with nmap. What is the other port running a web server on?
 
     8080
@@ -37,3 +39,5 @@ Use Metasploit to get an initial shell. What is the user flag?
 
 ![metasploit](/metaploit.png)
 ![metasploit](/metasploit.png)
+
+## Task 3 Privilege Escalation
