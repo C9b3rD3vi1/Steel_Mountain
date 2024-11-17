@@ -316,3 +316,6 @@ What is the root flag?
     C:\Windows\system32>type "C:\Users\Administrator\Desktop\root.txt
     type "C:\Users\Administrator\Desktop\root.txt
     9af5f314f57607c00fd09803a587db80
+
+    9af5f314f57607c00fd09803a587db80
+
