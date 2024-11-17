@@ -10,3 +10,9 @@ Who is the employee of the month?
     Bill Harper
 
 ![Inspect](/BillHarper.png)
+
+Scan the machine with nmap. What is the other port running a web server on?
+
+    8080
+
+![nmap scan](/nmap.png)
