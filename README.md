@@ -35,3 +35,5 @@ Use Metasploit to get an initial shell. What is the user flag?
 
     b04763b6fcf51fcd7c13abc7db4fd365
 
+![metasploit](/metaploit.png)
+![metasploit](/metasploit.png)
