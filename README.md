@@ -28,5 +28,10 @@ Visit http://ip:8080  # Replacing ip with your machine ip address
 What is the CVE number to exploit this file server?
 
     2014-6287
-    
+
 ![exploit db](/exploit_db.png)
+
+Use Metasploit to get an initial shell. What is the user flag?
+
+    b04763b6fcf51fcd7c13abc7db4fd365
+
