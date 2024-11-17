@@ -4,7 +4,6 @@ Hack into a Mr. Robot themed Windows machine. Use metasploit for initial access,
 
 ![Introduction](/steel_mountain.png)
 
-
 Who is the employee of the month?
 
     Bill Harper
