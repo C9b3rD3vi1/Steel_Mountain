@@ -23,7 +23,7 @@ Take a look at the other web server. What file server is running?
 
 Visit http://ip:8080  # Replacing ip with your machine ip address
 
-    ![fileserver scan](/fileserver.png)
+![fileserver scan](/fileserver.png)
 
 What is the CVE number to exploit this file server?
 
