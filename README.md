@@ -220,3 +220,13 @@ Take close attention to the CanRestart option that is set to true. What is the n
 
     AdvancedSystemCareService9
 
+The CanRestart option being true, allows us to restart a service on the system, the directory to the application is also write-able. This means we can replace the legitimate application with our malicious one, restart the service, which will run our infected program!
+
+Use msfvenom to generate a reverse shell as an Windows executable.
+
+![msfvenom](/msfvenom.png)
+
+Upload your binary and replace the legitimate one. Then restart the program to get a shell as root.
+
+Note: The service showed up as being unquoted (and could be exploited using this technique), however, in this case we have exploited weak file permissions on the service files instead.
+
