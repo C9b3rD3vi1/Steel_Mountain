@@ -28,3 +28,5 @@ Visit http://ip:8080  # Replacing ip with your machine ip address
 What is the CVE number to exploit this file server?
 
     2014-6287
+    
+![exploit db](/exploit_db.png)
