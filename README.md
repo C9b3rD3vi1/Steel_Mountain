@@ -214,3 +214,9 @@ AbuseFunction                   : Install-ServiceBinary -Name 'LiveUpdateSvc'
 CanRestart                      : False
 Name                            : LiveUpdateSvc
 Check                           : Modifiable Service Files
+
+
+Take close attention to the CanRestart option that is set to true. What is the name of the service which shows up as an unquoted service path vulnerability?
+
+    AdvancedSystemCareService9
+
