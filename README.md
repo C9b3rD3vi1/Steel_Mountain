@@ -21,7 +21,7 @@ Take a look at the other web server. What file server is running?
 
     Rejetto HTTP File Server
 
-Visit http://ip:8080
+Visit http://ip:8080  # Replacing ip with your machine ip address
 
     ![fileserver scan](/fileserver.png)
 
