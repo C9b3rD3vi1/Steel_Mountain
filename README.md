@@ -21,6 +21,10 @@ Take a look at the other web server. What file server is running?
 
     Rejetto HTTP File Server
 
+Visit http://ip:8080
+
+    ![fileserver scan](/fileserver.png)
+
 What is the CVE number to exploit this file server?
 
     2014-6287
